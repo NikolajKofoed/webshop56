@@ -1,0 +1,14 @@
+C:\Users\nik12\Desktop\Datamatiker\1.semester\Materiale\OOProg22-main\Chap\Prog01\Unsolved\MovieManagerV05\obj\Debug\net7.0\MovieManagerV05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik12\Desktop\Datamatiker\1.semester\Materiale\OOProg22-main\Chap\Prog01\Unsolved\MovieManagerV05\obj\Debug\net7.0\MovieManagerV05.AssemblyInfoInputs.cache
+C:\Users\nik12\Desktop\Datamatiker\1.semester\Materiale\OOProg22-main\Chap\Prog01\Unsolved\MovieManagerV05\obj\Debug\net7.0\MovieManagerV05.AssemblyInfo.cs
+C:\Users\nik12\Desktop\Datamatiker\1.semester\Materiale\OOProg22-main\Chap\Prog01\Unsolved\MovieManagerV05\obj\Debug\net7.0\MovieManagerV05.csproj.CoreCompileInputs.cache
+C:\Users\nik12\Desktop\Datamatiker\1.semester\Materiale\OOProg22-main\Chap\Prog01\Unsolved\MovieManagerV05\bin\Debug\net7.0\MovieManagerV05.exe
+C:\Users\nik12\Desktop\Datamatiker\1.semester\Materiale\OOProg22-main\Chap\Prog01\Unsolved\MovieManagerV05\bin\Debug\net7.0\MovieManagerV05.deps.json
+C:\Users\nik12\Desktop\Datamatiker\1.semester\Materiale\OOProg22-main\Chap\Prog01\Unsolved\MovieManagerV05\bin\Debug\net7.0\MovieManagerV05.runtimeconfig.json
+C:\Users\nik12\Desktop\Datamatiker\1.semester\Materiale\OOProg22-main\Chap\Prog01\Unsolved\MovieManagerV05\bin\Debug\net7.0\MovieManagerV05.dll
+C:\Users\nik12\Desktop\Datamatiker\1.semester\Materiale\OOProg22-main\Chap\Prog01\Unsolved\MovieManagerV05\bin\Debug\net7.0\MovieManagerV05.pdb
+C:\Users\nik12\Desktop\Datamatiker\1.semester\Materiale\OOProg22-main\Chap\Prog01\Unsolved\MovieManagerV05\obj\Debug\net7.0\MovieManagerV05.dll
+C:\Users\nik12\Desktop\Datamatiker\1.semester\Materiale\OOProg22-main\Chap\Prog01\Unsolved\MovieManagerV05\obj\Debug\net7.0\refint\MovieManagerV05.dll
+C:\Users\nik12\Desktop\Datamatiker\1.semester\Materiale\OOProg22-main\Chap\Prog01\Unsolved\MovieManagerV05\obj\Debug\net7.0\MovieManagerV05.pdb
+C:\Users\nik12\Desktop\Datamatiker\1.semester\Materiale\OOProg22-main\Chap\Prog01\Unsolved\MovieManagerV05\obj\Debug\net7.0\MovieManagerV05.genruntimeconfig.cache
+C:\Users\nik12\Desktop\Datamatiker\1.semester\Materiale\OOProg22-main\Chap\Prog01\Unsolved\MovieManagerV05\obj\Debug\net7.0\ref\MovieManagerV05.dll
