@@ -27,19 +27,21 @@ bool receiveSpecialOffer3 = noOfGamesInOrder >= 10 || noOfDVDsInOrder >= 10 || n
 bool receiveSpecialOffer4 = noOfBooksInOrder >= 10 && noOfBooksInOrder <= 20 || noOfDVDsInOrder >= 10 && noOfDVDsInOrder <= 20 || noOfGamesInOrder >= 5;
 
 
-// variable til at tælle hvor mange special offers
-int numberOfSpecialOrdersReceived = 0;
+// variable til at tælle hvor mange special offers der bliver sendt til kunden.
+int numberOfSpecialOffersReceived = 0;
 
-/* incrementere aka. siger rnumberOfSpecialOrdersReceived = numberOfSpecialOrdersReceived + 1, numberOfSpecialOrdersRecieved hvis de returner true, hvis falsk sker der ingenting
+/* incrementere ('++' <- increment) aka (numberOfSpecialOffersReceived = numberOfSpecialOffersReceived + 1), hvis de returner true, hvis falsk sker der ingenting
  * fx hvis du har en net pris over 1000, og noOfBooksInOrder er større end noOfGamesInOrder
  * så numberOfSpecialOrdersRecieved = 2*/
-if (receiveSpecialOffer1) { numberOfSpecialOrdersReceived++; }
-if (receiveSpecialOffer2) { numberOfSpecialOrdersReceived++; }
-if (receiveSpecialOffer3) { numberOfSpecialOrdersReceived++; }
-if (receiveSpecialOffer4) { numberOfSpecialOrdersReceived++; }
+if (receiveSpecialOffer1) { numberOfSpecialOffersReceived++; }
+if (receiveSpecialOffer2) { numberOfSpecialOffersReceived++; }
+if (receiveSpecialOffer3) { numberOfSpecialOffersReceived++; }
+if (receiveSpecialOffer4) { numberOfSpecialOffersReceived++; }
 
-//
-bool receiveSpecialOffer5 = numberOfSpecialOrdersReceived == 2;
+// de her -> {  } er hvor man skriver hvad man vil have ens kode skal gøre, i dette tilfælde hvis receiveSpecialOffer er sandt.
+
+// sammenlign numberOfSpecialOffersReceived med 2. hvis kunden har fået tilsendt 2 special offers, skal special offer 5 også sendes
+bool receiveSpecialOffer5 = numberOfSpecialOffersReceived == 2;
 
 
 
